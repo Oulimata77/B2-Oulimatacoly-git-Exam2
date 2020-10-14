@@ -1,1 +1,5 @@
-Salu monde
+<<<<<<< HEAD
+Salut tout le monde
+=======
+Salut tout le monde
+>>>>>>> 17772a20cc8c9a5ba605d66e693a9518be1bd688
